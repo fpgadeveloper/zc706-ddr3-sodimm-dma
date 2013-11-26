@@ -318,6 +318,5 @@ BEGIN axi_fifo_loopback
  BUS_INTERFACE M_AXIS = axi_fifo_loopback_0_M_AXIS
  PORT ACLK = clk_200_0000MHzPLLE0
  PORT ARESETN = pll_lock
- PORT EXTERN_CLK = processing_system7_0_FCLK_CLK1
 END
 
