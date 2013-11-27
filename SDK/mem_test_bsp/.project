@@ -3,7 +3,7 @@
 	<name>mem_test_bsp</name>
 	<comment></comment>
 	<projects>
-		<project>EDK3_hw_platform</project>
+		<project>EDK_hw_platform</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>
