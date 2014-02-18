@@ -16,6 +16,11 @@ from the custom peripheral back to the memory, and then verifies the data.
 A key feature of this design is the use of an interconnect to drive a slave
 (the DDR3 SODIMM memory) using two masters (the processor and the DMA engine).
 
+### Requirements
+
+* ISE Design Suite 14.7
+* ZC706 Evaluation Board
+
 ### License
 
 Feel free to modify the project or use it as a base for your application.
